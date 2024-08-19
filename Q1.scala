@@ -1,5 +1,3 @@
-package FP_Prac10
-
 object Q1 {
 
   val calculateInterest: Double => Double = (deposit: Double) => deposit match {
