@@ -1,5 +1,3 @@
-package FP_Prac10
-
 object Q2 {
 
   val classifyNumber: Int => String = (number: Int) => number match {
