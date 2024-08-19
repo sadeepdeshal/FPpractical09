@@ -1,5 +1,3 @@
-package FP_Prac10
-
 object Q3 {
 
   def toUpper(name: String): String = name.toUpperCase
